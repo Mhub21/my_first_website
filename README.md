@@ -1,3 +1,3 @@
-# my_first_website
+# CV-Website
 
 My very own first website...
